@@ -12,7 +12,7 @@ export default function App() {
 
 
   const handleOptionSelection = (optionCorrect) => {
-    if (optionCorrect == true) {
+    if (optionCorrect === true) {
       setScore(score = score + 1)
       setQuestion(question++)
     }
