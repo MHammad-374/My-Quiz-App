@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/200605082916-01-real-tiger-king-siberian.jpg?q=w_3072,h_2048,x_0,y_0,c_fill",
+        "options":[
+            {
+                "id": 1,
+                "text": "Lion",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Tiger",
+                "isCorrect": true
+            },
+            {
+                "id": 3,
+                "text": "Leopard",
+                "isCorrect": false
+            },
+            {
+                "id": 4,
+                "text": "Hyena",
+                "isCorrect": false
+            }
+
+        ] 
+        
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.britannica.com/73/244073-131-FE24A00D/Squirrel-Sciurus-carolinensis.jpg",
+        "options":[
+            {
+                "id": 1,
+                "text": "Squirrel",
+                "isCorrect": true
+            },
+            {
+                "id": 2,
+                "text": "Chameleon",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Rat",
+                "isCorrect": false
+            },
+            {
+                "id": 4,
+                "text": "Rabbit",
+                "isCorrect": false
+            }
+
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.britannica.com/84/244084-131-43ADA11C/Red-Fox-Vulpes-vulpes.jpg",
+        "options":[
+            {
+                "id": 1,
+                "text": "Puma",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Fox",
+                "isCorrect": true
+            },
+            {
+                "id": 3,
+                "text": "Lynx",
+                "isCorrect": false
+            },
+            {
+                "id": 4,
+                "text": "Cat",
+                "isCorrect": false
+            }
+
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://cdn.britannica.com/29/226529-131-55471233/White-horse-galloping-in-a-field.jpg",
+        "options":[
+            {
+                "id": 1,
+                "text": "Goat",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Horse",
+                "isCorrect": true
+            },
+            {
+                "id": 3,
+                "text": "Zebra",
+                "isCorrect": false
+            },
+            {
+                "id": 4,
+                "text": "Donkey",
+                "isCorrect": false
+            }
+
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.britannica.com/83/244083-131-F8F8561D/Alligator-Alligator-mississippiensis.jpg",
+        "options":[
+            {
+                "id": 1,
+                "text": "Chameleon",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Cobra",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Crocodile",
+                "isCorrect": true
+            },
+            {
+                "id": 4,
+                "text": "Komodo Dragon",
+                "isCorrect": false
+            }
+
+        ]
+    }
+]

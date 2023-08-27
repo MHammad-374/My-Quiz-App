@@ -1,0 +1,62 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.div1{
+  width: 70%;
+  margin: 10px auto;
+}
+
+.image{
+  width: 50%;
+  margin: 5px auto;
+
+}
+
+.result{
+  text-align: center;
+  width: 50%;
+  margin: 50px auto;
+}
+
+.restart{
+  width: 130px;
+  height: 40px;
+  margin: auto;
+  border: 3px solid rgb(115, 115, 115);
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  transition: .3s;
+}
+
+.restart:hover{
+  color: white;
+  background-color: black;
+  border-color: black;
+}
+
+.options{
+  width: 40%;
+  height: 40px;
+  margin: 3px auto;
+  border: 2px solid rgba(2, 108, 236, 0.877);
+  border-radius: 25px;
+  color: rgba(2, 108, 236, 0.877);
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.options:hover{
+  background: rgba(2, 108, 236, 0.877);
+  color: white;
+}
+
+.options:focus{
+  background: rgba(2, 108, 236, 0.877);
+  color: white;
+}
