@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+.start{
+  width: 70%;
+  text-align: center;
+}
+
+
 .div1{
   width: 70%;
   margin: 10px auto;
